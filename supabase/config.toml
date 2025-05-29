@@ -1,0 +1,8 @@
+
+project_id = "kjbpvjyxdjciyobnbhrw"
+
+[functions.sync-schemes]
+verify_jwt = false
+
+[functions.fetch-myscheme-api]
+verify_jwt = false
